@@ -1,9 +1,10 @@
 body{
 	padding: 0px;
 	margin: 0px;
-	background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.5)), url(game.jpg) no-repeat center; 
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)), url(game.jpg) no-repeat; 
 	background-size: contain;
 	height: 100vh;
+	background-attachment: fixed;
 }
 h1{
 	color: white
